@@ -5,7 +5,7 @@
 
 **[English](README_en.md) | 中文 | [日本語](README_ja.md)**
 
-> **版本说明**：中文版是当前 2026 Springer 出版主线，结构冻结为 14 篇、48 章、15 个实战项目与 8 个附录（A–H）。英文版和日文版仍在跟进翻译，站点中会保留翻译状态说明页。
+> **版本说明**：中文版和英文版基本完成，日文版仍在跟进翻译。
 
 ## 简介
 
@@ -184,9 +184,6 @@ data_engineering_book/
 - AI 产品经理（技术向）
 - 对 LLM 数据流水线感兴趣的研究人员
 
-**实验室信息**：  
-中国科学技术大学-语音及语言信息处理国家工程研究中心；中国科学技术大学-自动化系-多媒体计算及智能机器人研究中心；中国科学技术大学-自动化系-多模态智能体联合研究中心
-
 ## 贡献指南
 
 欢迎提交 Issue 和 Pull Request！
@@ -205,6 +202,9 @@ data_engineering_book/
 
 - GitHub Issues: [提交问题](https://github.com/datascale-ai/data_engineering_book/issues)
 - 在线阅读: [https://datascale-ai.github.io/data_engineering_book/](https://datascale-ai.github.io/data_engineering_book/)
+
+**实验室信息**：  
+中国科学技术大学-语音及语言信息处理国家工程研究中心；中国科学技术大学-自动化系-多媒体计算及智能机器人研究中心；中国科学技术大学-自动化系-多模态智能体联合研究中心
 
 ---
 
